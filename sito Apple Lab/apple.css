@@ -1,0 +1,25 @@
+header {
+	text-align: center; 
+	color:white;
+}
+header button {
+	background-color: black;
+	color: #ffffff;
+	border: 1px solid;
+}
+body{
+	background-color:black;
+}
+#button1{
+	border: 1px solid;
+	margin: 10px;
+	color:white;
+	padding: 150px 220px;
+	position:absolute;
+	left:265px;
+	top:150px;
+	background:url(ios14.jpg);
+	
+
+
+}
